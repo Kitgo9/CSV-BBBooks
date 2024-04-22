@@ -1,51 +1,51 @@
-author,isbn,price,title
-Lorinda Jimmes,631805012-4,27.43,Coastal Plain Dawnflower
-Torey Lamberteschi,252382323-3,34.26,Snowrose
-Josefa Neaves,059549042-5,20.50,Staggers Grass
-L;urette Ganford,553644523-5,32.83,Sneezeweed
-Madalyn Aviss,823745859-1,27.41,Greenland Buttercup
-Samaria Dack,038816589-8,17.99,Monkey Jack
-Marlyn Grimsdale,420429187-2,15.00,Portulacaria
-Conrade Gayther,877216119-1,29.75,Narrowleaf Grapefern
-Bruis Misken,407036062-X,45.72,Candelilla
-Eldredge Di Ruggero,958677377-9,10.64,Ouachita Bluet
-Valida Leeson,210481984-9,14.20,Yellow Himalayan Raspberry
-Berenice Bloan,521615890-1,32.86,Agoseris
-Kalinda Winslet,119586244-X,24.15,Caskfruit
-Lorenza Busswell,157860982-8,36.69,Trailplant
-Gwen Delaprelle,701358545-9,39.71,Arizona Desert-thorn
-Emili Cubbini,191093640-5,40.19,Leonard's Witch Hazel
-Merrile Gatesman,465798001-7,30.13,Spoonwort
-Jayme Ensley,712104263-0,32.34,Jelly Lichen
-Roz Stanway,742948895-1,12.01,Stirtonia Lichen
-Amberly McGlynn,301540568-3,23.23,Persian Ironwood
-Andree Cussen,715495350-0,43.10,Hybrid Pine
-Suzann Pietersen,907220735-1,15.31,Hubricht's Bluestar
-Ainslie Magne,054313940-9,49.73,Kauai Tetramolopium
-Odille Flaunier,507858969-4,44.55,Bedstraw
-Lockwood Breckenridge,284737982-7,11.59,Florida Hedgenettle
-Tiebold Granville,433381995-4,37.15,Lecidea Lichen
-Adrian Gutteridge,859943455-1,32.09,Berg's Panicgrass
-Rozele Millin,172844875-1,16.52,Elegant Clarkia
-Nannette Ditch,039494934-X,30.44,Mt. Eke Peperomia
-Demetri Foye,300866851-8,49.06,Climbing Fern
-Sibylle Mawford,848759542-1,44.91,Common Sandaster
-Constantin Warton,240194905-4,39.35,Florida Star Orchid
-Gussi Upstone,784568807-X,48.90,Greenleaf Ticktrefoil
-Allyson Vogl,126342860-6,33.82,Groundcover Milkvetch
-Kin Brandli,367649939-5,42.14,Long-flower Marlock
-Wally Perrigo,679285025-X,18.64,Leathery Grapefern
-Doll Aspall,915001740-3,25.13,Smooth Solomon's Seal
-Amandy Gaynes,142269164-0,25.28,Kindberg's Climacium Moss
-Janenna Rohfsen,777925411-9,49.70,Whitestem Gooseberry
-Bogey Streeton,946514526-2,42.95,Lady's Tresses
-Arel Hyam,290304609-3,32.35,Dicranella Moss
-Ward Nanson,221914247-7,11.93,Widethroat Yellow Monkeyflower
-Nerty Farady,228312567-7,39.97,Koholapehu
-Conrade Allery,517094243-5,20.36,Crested Sedge
-Silvanus Dundredge,977249055-2,36.94,Prickly Bog Sedge
-Minor Cordet,204110292-6,37.52,Showy Sunflower
-Dallas Hayes,736119714-0,12.97,Lemmon's Milkweed
-Farr Lawles,799027528-7,36.24,Annual Psathyrotes
-Tiphany Martinolli,619134597-6,31.05,Western Yarrow
-Aili Shafto,789910966-3,45.21,Coast Range Brome
+isbn,title,author,price
+631805012-4,Coastal Plain Dawnflower,Lorinda Jimmes,27.43
+252382323-3,Snowrose,Torey Lamberteschi,34.26
+059549042-5,Staggers Grass,Josefa Neaves,20.5
+553644523-5,Sneezeweed,L;urette Ganford,32.83
+823745859-1,Greenland Buttercup,Madalyn Aviss,27.41
+038816589-8,Monkey Jack,Samaria Dack,17.99
+420429187-2,Portulacaria,Marlyn Grimsdale,15
+877216119-1,Narrowleaf Grapefern,Conrade Gayther,29.75
+407036062-X,Candelilla,Bruis Misken,45.72
+958677377-9,Ouachita Bluet,Eldredge Di Ruggero,10.64
+210481984-9,Yellow Himalayan Raspberry,Valida Leeson,14.2
+521615890-1,Agoseris,Berenice Bloan,32.86
+119586244-X,Caskfruit,Kalinda Winslet,24.15
+157860982-8,Trailplant,Lorenza Busswell,36.69
+701358545-9,Arizona Desert-thorn,Gwen Delaprelle,39.71
+191093640-5,Leonard's Witch Hazel,Emili Cubbini,40.19
+465798001-7,Spoonwort,Merrile Gatesman,30.13
+712104263-0,Jelly Lichen,Jayme Ensley,32.34
+742948895-1,Stirtonia Lichen,Roz Stanway,12.01
+301540568-3,Persian Ironwood,Amberly McGlynn,23.23
+715495350-0,Hybrid Pine,Andree Cussen,43.1
+907220735-1,Hubricht's Bluestar,Suzann Pietersen,15.31
+054313940-9,Kauai Tetramolopium,Ainslie Magne,49.73
+507858969-4,Bedstraw,Odille Flaunier,44.55
+284737982-7,Florida Hedgenettle,Lockwood Breckenridge,11.59
+433381995-4,Lecidea Lichen,Tiebold Granville,37.15
+859943455-1,Berg's Panicgrass,Adrian Gutteridge,32.09
+172844875-1,Elegant Clarkia,Rozele Millin,16.52
+039494934-X,Mt. Eke Peperomia,Nannette Ditch,30.44
+300866851-8,Climbing Fern,Demetri Foye,49.06
+848759542-1,Common Sandaster,Sibylle Mawford,44.91
+240194905-4,Florida Star Orchid,Constantin Warton,39.35
+784568807-X,Greenleaf Ticktrefoil,Gussi Upstone,48.9
+126342860-6,Groundcover Milkvetch,Allyson Vogl,33.82
+367649939-5,Long-flower Marlock,Kin Brandli,42.14
+679285025-X,Leathery Grapefern,Wally Perrigo,18.64
+915001740-3,Smooth Solomon's Seal,Doll Aspall,25.13
+142269164-0,Kindberg's Climacium Moss,Amandy Gaynes,25.28
+777925411-9,Whitestem Gooseberry,Janenna Rohfsen,49.7
+946514526-2,Lady's Tresses,Bogey Streeton,42.95
+290304609-3,Dicranella Moss,Arel Hyam,32.35
+221914247-7,Widethroat Yellow Monkeyflower,Ward Nanson,11.93
+228312567-7,Koholapehu,Nerty Farady,39.97
+517094243-5,Crested Sedge,Conrade Allery,20.36
+977249055-2,Prickly Bog Sedge,Silvanus Dundredge,36.94
+204110292-6,Showy Sunflower,Minor Cordet,37.52
+736119714-0,Lemmon's Milkweed,Dallas Hayes,12.97
+799027528-7,Annual Psathyrotes,Farr Lawles,36.24
+619134597-6,Western Yarrow,Tiphany Martinolli,31.05
+789910966-3,Coast Range Brome,Aili Shafto,45.21
